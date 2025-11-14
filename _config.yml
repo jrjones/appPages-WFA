@@ -40,19 +40,19 @@ features                                  :
 
   - title                                 : Detailed Information About WiFi and Cellular Connections
     description                           : IP, DNS, Gateway, and connection status at your fingertips
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : info-circle
     
   - title                                 : Network Speed Test
     description                           : Test the speed of your network connection - understand download speed, latency, and more
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : tachometer
 
   - title                                 : Network Device Scanning
     description                           : Scan your network using Bonjour and NMap scanners to discover all the devices on your network
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : spinner
 
   - title                                 : Detailed Device Information
     description                           : Speed your network troubleshooting with comprehensive information about your device like CPU, memory, storage, and more
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : mobile
 
 
 
