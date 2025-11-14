@@ -38,45 +38,22 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : WiFi Analyzer: Network Master - Network Scanning for iOS
-    description                           : A simple iPhone app for scanning and testing your WiFi network
+  - title                                 : Detailed Information About WiFi and Cellular Connections
+    description                           : IP, DNS, Gateway, and connection status at your fingertips
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : App screenshot - an iPhone showing network information
+  - title                                 : Network Speed Test
+    description                           : Test the speed of your network connection - understand download speed, latency, and more
     fontawesome_icon_name                 : mobile
 
-  - title                                 : App Video
-    description                           : App video preview - see WiFi Analyzer: Network Master in action.
+  - title                                 : Network Device Scanning
+    description                           : Scan your network using Bonjour and NMap scanners to discover all the devices on your network
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Detailed Device Information
+    description                           : Speed your network troubleshooting with comprehensive information about your device like CPU, memory, storage, and more
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
